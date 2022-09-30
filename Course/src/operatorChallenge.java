@@ -1,4 +1,4 @@
-public class Main {
+public class operatorChallenge {
     public static void main(String[] args) {
         double var1 = 20.00d;
         double var2 = 80.00d;
